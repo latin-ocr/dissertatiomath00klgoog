@@ -1,0 +1,43 @@
+2sin φ, si observatur
+
+castamque-sinc.
+
+Ope hujus aequationis si φ α zero ad 450 crescit, radius vector positivus
+z dabit omnia puncta rami UB; sin autem φ α 45⁰ ad angulum rectum
+crescit, omnia puncta rami BJ‘A radius vector negativus z dabit: εἰφ
+augetur ab angulo recto ad 1350, positiius z proferret puncta rami Α] Β ;
+denique φ crescens ab 1350 ad duos angulos rectos negativus radius rector
+z puncta omnia rami Β U' constituet. Adeo integram crunam nostram
+ope aquationis polaris praecedentis angarlns φ azero ad duos tantum rectos
+angulos crescens determinabit. Sin autem cupiatur ut radii vectores positivi
+solum describant curvam nostram, necesse est, angulus φ crescat a zero
+nsque ad quaternarium rectorumangulorum numerum.
+
+⁴ v111.
+
+si punctum A polus hahetur et u repraesentat radium vectorem A U
+atque designat t angulum quem raduis vector.A U cum axi applicatarum
+constiutit, obtinemus A UzAG÷ GU, simulque AJ=AG÷ UG,
+sed A G = sect t et UG = BG = tang t, hisce volonibus elicitur pro
+
+aequatione alia polari focatis u: sect 1·- tang t. Hac aequatione habetur
+
+quarta emas nostrae generatio· Observamus quantitate-¹3} . .
+
+gentem anguli s quem format radius vector cum tangenti ad curvam crit
+
+018⁰ tang &²ss eost t. Haec aequatio simplex offert· constructionem
+elegantissimam geometricam. Subtangens, in coordinatus polares translata, ο
+idest, pars perpendicula. in radium vectorem demissae, inter punctum
+
+potare et id in quo tangens at curvam hanc perpendiculum secat, exprimitur·
+
+formula generali Ἢ, atque hic erit 1 sssin t. Sulmormalis autem,
+
+quoe ratione normalis eodem loco habenda est, quo subtangens ratione
+
+Ἴ .= ι du ,tangtsssect' u
+tangentis, cujusque valor -d-g- est, ent eost ,sent {ssi
+
+ 
+

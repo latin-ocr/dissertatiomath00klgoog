@@ -1,0 +1,43 @@
+— 26 - .'
+'xvi'
+
+Centro gravitatis constituto, quaestio seipuens sponte sese offert , quae ι
+expressio declaret simmam elementorum solidi legi se circum axem fixam
+rotandi subjecti, quorum singula quadratis intervallorum inter ipsa et axem
+interjectorum sunt nrulu'plicata. Haec summa, plerumque nominata mo-
+mentum inertiae‚ constituatur, necesse est, ad celeritatem angulartmi cog-
+noscendam, qua solidum circum axem fixam serutr, quando ei ¹quacunque
+arte tribuitur quaedam celeritas. Quare jam huic momento inertiae excu-
+tiendo operam temus. Sequemur. ratiocinium illustris Poisson, quod ab
+
+’ ipso in opere „traite de Mecanique‚ inscripto datum, propter elegantiam
+atque simplicitatem repetimus.
+
+Imaginemur solidumin annullos circulares, spissitudinis et latitudinis
+infinite parvarum divisum3 quorumsingnlorum centrum est in axiA Υ, quique
+· intra dna plana ad hanc axem perpendicularis comprehenduntur. Anirno
+“ informemus unum horum annullarum3 sint r radius interni et r÷dr ille
+externi circuli hujus annulli, ita 'nt 'dr sit ¹latitudo annulli3 dy erit
+illius spissitudo. Hic annullus manifesto est differentia (luorum cylin-
+drorum, quorum altitudo conamunis ,est dy, et qui radios habent r et r-p. dr3 ·
+
+· Ι volumen illius igitur erit 71<r†clr)²dy-75r²dyp27trdrdy‚ neglecta.
+
+tertii ordinis quantitate infinite parva: massa annullo hujus erit anrdrdy,
+f significante solidi densitatem constantem. Quare momentum inertiae
+annulli, multiplicando massam ejas per ·r'² erit anr³ drdy3 si integratur
+haec expressio ratione -habita r'et ab r:O usque rzx, habebimus mo-
+mentum inertiae segmentis solidi, ‹le quo¹ sermo est, et cujus spissitudo
+est dy, interjecti inter (lua planaperpendicularia ad axem, idest, summam
+momentorum inertiae annullarum omnium comprehensorum duobus planis:
+effecta hac integratione, obtinebimus {afuat dy.
+
+Aeq'uatio curvae generatricis nobis (labitu
+
+χρῶ-ἕω.
+““ (1-y)²· ’
+
+si pretinm hocin locum x* in nostra formula sufficimus, prodit
+
+ 
+
